@@ -21,8 +21,8 @@ This project implements an Augmented Reality (AR) application that detects objec
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/hand-ar-project.git
-   cd hand-ar-project
+   git clone https://github.com/Raghavrs1999/Hand_AR.git
+   cd Hand_AR
    ```
 
 2. Install the required packages:
@@ -32,7 +32,7 @@ This project implements an Augmented Reality (AR) application that detects objec
 
 3. Download the YOLO model:
    ```
-   wget https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8m-seg.pt
+   wget https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8m.pt
    ```
 
 ## Usage
